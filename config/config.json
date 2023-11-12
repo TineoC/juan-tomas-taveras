@@ -1,8 +1,8 @@
 {
   "site": {
-    "title": "Hydrogen Nextjs",
+    "title": "Juan Tomás Taveras Blog",
     "base_url": "/",
-    "favicon": "/images/developer.png"
+    "favicon": "/images/profile.jpg"
   },
 
   "settings": {
@@ -12,16 +12,16 @@
   },
 
   "profile": {
-    "name": "Michael Caine",
-    "image": "/images/developer.png",
-    "designation": "Front-end developer",
-    "bio": "A Full Stack Front-end Developer based in New York. Meticulous web developer with over 2 years of front end experience and passion for responsive and mobile-first website design."
+    "name": "Juan Tomás Taveras",
+    "image": "/images/profile.jpg",
+    "designation": "Mayor General retirado de la Policía Nacional",
+    "bio": "Es un mayor general retirado de la Policía Nacional de la República Dominicana, periodista, activista social y campesino. Nacido el 28 de mayo de 1963 en Moca, provincia Espaillat."
   },
 
   "params": {
     "contact_form_action": "#",
     "tag_manager_id": "",
-    "copyright": "Copyright © 2022 a theme by [statichunt](https://statichunt.com)"
+    "copyright": "Copyright © 2022 a theme by [statichunt](https://statichunt.com) modified by [Christopher Tineo](https://www.linkedin.com/in/christopher-tineo-4a950817a/)"
   },
 
   "metadata": {
